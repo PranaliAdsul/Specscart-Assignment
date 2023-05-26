@@ -2,7 +2,7 @@
   position: relative;
   display: flex;
   background-color: rgb(255, 255, 255);
-  height: 500px;
+  height: 400px;
   width: 100%;
   top: 60px;
 }
@@ -23,6 +23,7 @@
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: rgb(255, 255, 255);
   font-weight: bold;
+  font-size: 20px;
 }
 .box-text {
   margin-top: 50px;
